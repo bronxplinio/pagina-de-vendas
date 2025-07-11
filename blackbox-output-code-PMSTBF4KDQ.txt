@@ -1,0 +1,9 @@
+# Domine o Tráfego Pago
+
+## Descrição
+Este é um guia definitivo para iniciantes que desejam dominar o marketing digital e multiplicar suas vendas com anúncios pagos. O curso oferece um passo a passo sobre como utilizar plataformas de anúncios, criar campanhas eficazes e otimizar resultados.
+
+## Instalação
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/pagina-de-vendas.git
